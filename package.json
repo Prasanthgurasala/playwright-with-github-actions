@@ -1,0 +1,22 @@
+{
+  "name": "playwright-with-github-actions",
+  "version": "1.0.0",
+  "description": "playwright-with-github-actions",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prasanthgurasala/playwright-with-github-actions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Prasanthgurasala/playwright-with-github-actions/issues"
+  },
+  "homepage": "https://github.com/Prasanthgurasala/playwright-with-github-actions#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.42.1",
+    "@types/node": "^20.11.30"
+  }
+}
