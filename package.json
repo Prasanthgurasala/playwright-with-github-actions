@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "playwright-with-github-actions",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "playwright:test:ci": "npx playwright test --project=chromium"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Prasanthgurasala/playwright-with-github-actions.git"
